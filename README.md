@@ -19,7 +19,8 @@ Proje sonucunda elde edilen en önemli bulgular:
 ## 📁 Proje Dosya Yapısı
 
 * `main.py`: Ana Python betiği. Veri setlerini okur, gürültü ekler, filtreleri uygular ve metrikleri hesaplayıp konsola yazdırır.
-* `1.pdf`: Projenin detaylarını ve bulgularını içeren vize raporu.
+* `Gaussian ve Median Filtrelerinin Gürültü Giderme Başarımının PSNR, SSIM ve RMSE Metrikleri ile Karşılaştırmalı Analizi.pdf
+`: Projenin detaylarını ve bulgularını içeren vize raporu.
 * `.gitignore`: Python'a özgü gereksiz dosyaları (örn: `__pycache__`) görmezden gelir.
 
 ---
