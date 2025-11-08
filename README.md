@@ -1,9 +1,5 @@
 # Gaussian ve Median Filtrelerinin Gürültü Giderme Başarımının Karşılaştırmalı Analizi
 
-[cite_start]Bu proje, Sayısal Görüntü İşleme dersi vize ödevi [cite: 374-385] kapsamında hazırlanmıştır. [cite_start]Çalışmanın amacı, iki farklı gürültü tipine (Gaussian ve Tuz-Biber) maruz bırakılan iki farklı yapıdaki (hücresel  [cite_start]ve lifli ) görüntü veri seti üzerinde Gaussian ve Median filtrelerinin gürültü giderme performansını karşılaştırmaktır.
-
-[cite_start]Projenin tüm detayları, bulguları  [cite_start]ve tartışmaları [cite: 15-17] [cite_start]`1.pdf`  rapor dosyasında yer almaktadır.
-
 ## 📊 Temel Bulgular
 
 Proje sonucunda elde edilen en önemli bulgular şunlardır:
